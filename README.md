@@ -4,7 +4,7 @@ Perlini is a very simple, header-only, cross-platform static 2D Perlin-Noise gen
 ## Installation
 Simply add the Perlini.h header file to your project.
 ## Usage
-```
+```cpp
 /*
  *  Simple snippet to test Perlini
  */
