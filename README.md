@@ -1,6 +1,7 @@
 # Welcome to Perlini
 ## What is it?
 Perlini is a very simple, header-only, cross-platform static 2D Perlin-Noise generator.
+By default, Perlini uses cosine-interpolation and an assymetrical binary noise generator.
 ## Installation
 Simply add the Perlini.h header file to your project.
 ## Usage
